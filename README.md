@@ -1,2 +1,2 @@
 # Simple Note App using React
-demo link -https://idyllic-liger-cd7858.netlify.app/
+demo link -https://velvety-selkie-f67f83.netlify.app/
