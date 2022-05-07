@@ -1,2 +1,2 @@
 # Simple Note App using React
-demo link - https://jazzy-leaf.surge.sh
+demo link -https://idyllic-liger-cd7858.netlify.app/
